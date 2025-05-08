@@ -1,7 +1,7 @@
 # Hello, I'm DAVE
 <a href="https://linkedin.com/in/davidajuzie"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## About me
+## Brief Introduction
 I am a recent cybersecurity graduate with a profound interest in technology and a dedication to solving complex problems. I do not just have a degree but i also have the zeal to suceed in this field.
 
 ## My Objective
