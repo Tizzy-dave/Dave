@@ -13,6 +13,8 @@ My journey in Cybersecurity has led me to develop a passion for penetration test
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking          | <a href="https://indigo-barometer-4c0.notion.site/Easy-Peasy-Walkthrough-1dd26954076880db8269e01f402bc633">Privilege Escalation techniques</a>|
 | Effective communication | <a href="https://drive.google.com/file/d/1_2c722k3vm2AnPTdDUcrRfWALkdfpZ3G/view?usp=sharing">Hosted Webinar</a>|
+| Privilege Escalation | <a href="https://medium.com/@davebig4l/tryhackme-kenobi-walkthrough-fbc3d70cd913">THM Room Walkthrough</a>|
+| Enumeration | <a href="https://medium.com/@davebig4l/tryhackme-kenobi-walkthrough-fbc3d70cd913">THM Room Walkthrough</a>|
 
 
 ## Tools
