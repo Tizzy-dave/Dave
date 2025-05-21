@@ -35,5 +35,6 @@ My journey in Cybersecurity has led me to develop a passion for penetration test
 
 
 ## Projects
-- Easy Peasy Walkthrough
+- <a href="https://indigo-barometer-4c0.notion.site/Easy-Peasy-Walkthrough-1dd26954076880db8269e01f402bc633">Easy Peasy Walkthrough</a>
+- <a href="https://github.com/Tizzy-dave/Kenobi-Walkthrough/tree/main">Kenobi Walkthrough</a>
   
